@@ -7,4 +7,4 @@
 
 | 回 | ノートブック | Colab で開く |
 |---|---|---|
-| 対面2 | 学習1ステップの計算 | [f1_learning_step.ipynb](https://colab.research.google.com/github/kazumichiINOUE/info-basics-notebooks/blob/main/f1_learning_step.ipynb) |
+| 対面2 | シグモイド関数の計算 | [f1_learning_step.ipynb](https://colab.research.google.com/github/kazumichiINOUE/info-basics-notebooks/blob/main/f1_learning_step.ipynb) |
