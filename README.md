@@ -8,3 +8,11 @@
 | 回 | ノートブック | Colab で開く |
 |---|---|---|
 | 対面2 | シグモイド関数の計算 | [f1_learning_step.ipynb](https://colab.research.google.com/github/kazumichiINOUE/info-basics-notebooks/blob/main/f1_learning_step.ipynb) |
+| 対面4 | 文の生成 | [text_generation.ipynb](https://colab.research.google.com/github/kazumichiINOUE/info-basics-notebooks/blob/main/text_generation.ipynb) |
+
+## データの出典
+
+- `data/wikinews_ja.txt`（対面4「文の生成」の学習データ）
+  - 出典：ウィキニュース日本語版（https://ja.wikinews.org/ ）の記事．ウィキニュース日本語版の執筆者による
+  - ライセンス：クリエイティブ・コモンズ 表示 4.0 国際（CC BY 4.0．https://creativecommons.org/licenses/by/4.0/deed.ja ）
+  - 変更した点：2026-11-01 のダンプの記事の本文から文を取り出し，マークアップを除いて1行に1文にした．事件，事故，訃報，政治などの分野の記事と，一部の語を含む文を除いた
